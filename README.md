@@ -1,3 +1,7 @@
-BART for fNIRS
+# BART
 
-BART is the Basic Analysis R Tools for functional Near Infrared Spectroscopy, a set of R tools to work with fNIRS data.
+The Basic Analysis R Tools for functional near infrared spectroscopy (fNIRS).
+
+### Introduction
+
+BART is a set of basic R functions to process fNIRS data.
