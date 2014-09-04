@@ -1,4 +1,4 @@
-# BART
+## BART
 
 The Basic Analysis R Tools for functional near infrared spectroscopy (fNIRS).
 
